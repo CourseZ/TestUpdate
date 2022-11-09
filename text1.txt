@@ -1,1 +1,5 @@
 Hello C++
+
+Update Git control version
+
+Version 1.2
